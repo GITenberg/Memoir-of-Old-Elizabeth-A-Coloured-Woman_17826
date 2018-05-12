@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '38349'
     url: http://www.gutenberg.org/2009/agents/38349
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17826#Memoir-of-Old-Elizabeth-A-Coloured-Woman
 gutenberg_issued: '2006-02-22'
 gutenberg_type: Text
 identifiers:
