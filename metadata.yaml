@@ -1,0 +1,34 @@
+_repo: Memoir-of-Old-Elizabeth-A-Coloured-Woman_17826
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Old Elizabeth
+    alias: Elizabeth, Old
+    birthdate: 1766
+    gutenberg_agent_id: '38349'
+    url: http://www.gutenberg.org/2009/agents/38349
+description: ''
+gutenberg_issued: '2006-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17826'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slaves'' writings, American'
+- !lcsh 'Society of Friends'
+- !lcsh 'African Americans -- Religion'
+- !lcsh 'Slaves -- Maryland -- Biography'
+- !lcsh 'Slavery -- Maryland -- History -- 18th century'
+- !lcsh 'Methodist women -- United States -- Biography'
+- !lcsh 'Old Elizabeth, 1766-'
+- !lcsh 'African Americans -- Biography'
+- !lcc 'E300'
+- !lcsh 'African American Methodists -- United States -- Biography'
+title: Memoir of Old Elizabeth, A Coloured Woman
+url: http://www.gutenberg.org/ebooks/17826
